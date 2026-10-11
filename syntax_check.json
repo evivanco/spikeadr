@@ -1,0 +1,12 @@
+{
+  "adr_generator.py": "ok",
+  "evaluate.py": "ok",
+  "graph_builder.py": "ok",
+  "latex_report.py": "ok",
+  "models.py": "ok",
+  "pdf_parser.py": "ok",
+  "pipeline.py": "ok",
+  "run_batch_by_folder.py": "ok",
+  "signal_extractor.py": "ok",
+  "spike_generator.py": "ok"
+}
